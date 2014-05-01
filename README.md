@@ -3,8 +3,8 @@
 |                |                                                        |
 |:---------------|:-------------------------------------------------------|
 |**Autor:**      | Minolli Santiago
-|**Version:**    | 1.3
-|**Fecha:**      | Abril 2014
+|**Version:**    | 1.4
+|**Fecha:**      | Mayo 2014
 |**Contacto:**   | minollisantiago@gmail.com
 |**Repository:** | [Link al Repositorio en GitHub](https://github.com/minollisantiago/IndCompuestos)
 
